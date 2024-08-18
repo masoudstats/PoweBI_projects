@@ -1,2 +1,2 @@
-# PoweBI_projects
+# PoweBI Projects
 I'll put some projects about PowerBI!
